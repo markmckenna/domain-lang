@@ -1,6 +1,6 @@
-# domain-lang
+# Domain-Lang
 
-A set of comain-specific language samples for simplifying common tasks.
+A set of domain-specific language samples for simplifying common tasks.
 
 My idea is that the world of programming gets a whole lot simpler when you use a series of targeted, special-purpose languages to define your system logic, and glue them together to build the more complex system.  There are a few things that make me think this might be true:
 * General-purpose programming languages generally include a lot of 'boilerplate' to basically indicate what the file is about; a special purpose language could assume much of what is specified with boilerplate, avoiding the need to write it over and over again.
